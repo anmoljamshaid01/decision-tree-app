@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 
 st.set_page_config(
-    page_title="Decision Tree Offer Predictor",
+    page_title="skin cancer decision tree",
     page_icon="🌳",
     layout="centered",
 )
